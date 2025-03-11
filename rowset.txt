@@ -1,0 +1,25 @@
+rowset.txt
+
+$rowset=array(4) 
+		{ 
+			  [1]=> object(Coche)#2 (4) 
+					{ ["marca"]=> string(10) "Wolkswagen" 
+					  ["modelo"]=> string(4) "Polo" 
+					  ["color"]=> string(5) "negro" 
+					  ["propietario"]=> string(6) "Rebeca" }
+			  [2]=> object(Coche)#3 (4) 
+					{ ["marca"]=> string(6) "Toyota" 
+					  ["modelo"]=> string(7) "Corolla" 
+					  ["color"]=> string(5) "verde" 
+					  ["propietario"]=> string(6) "Marcos" } 
+			  [3]=> object(Coche)#4 (4) 
+					{ ["marca"]=> string(7) "Renault" 
+					  ["modelo"]=> string(7) "Stepway" 
+					  ["color"]=> string(5) "negro" 
+					  ["propietario"]=> string(5) "Laura" } 
+			  [4]=> object(Coche)#5 (4) 
+					{ ["marca"]=> string(3) "Kia" 
+					  ["modelo"]=> string(3) "Rio" 
+					  ["color"]=> string(4) "azul" 
+					  ["propietario"]=> string(5) "Jairo" } 
+		}
